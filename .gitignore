@@ -1,0 +1,9 @@
+## Visual Studio Junk
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosct
+*.sln.docstates
+*.slnx
